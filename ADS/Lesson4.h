@@ -1,5 +1,5 @@
 //
-//  Lesson4.c
+//  Lesson4.h
 //  AiSD
 //
 //  Created by Денис Баринов on 01/12/2018.

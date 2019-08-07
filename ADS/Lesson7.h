@@ -1,5 +1,5 @@
 //
-//  Lesson7.c
+//  Lesson7.h
 //  AiSD
 //
 //  Created by Денис Баринов on 11/12/2018.

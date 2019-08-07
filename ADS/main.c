@@ -18,20 +18,20 @@
 
 int main(int argc, const char * argv[]) {
     // Задания по курсу Алгоритмы и Структуры Данных
-//    printf("--- 1 лекция ---\n");
-//    Lesson1();
-//    printf("--- 2 лекция ---\n");
-//    Lesson2();
-//    printf("--- 3 лекция ---\n");
-//    Lesson3();
-//    printf("--- 4 лекция ---\n");
-//    Lesson4();
-//    printf("--- 5 лекция ---\n");
-//    Lesson5();
-//    printf("--- 6 лекция ---\n");
-//    Lesson6();
-//    printf("--- 7 лекция ---\n");
-//    Lesson7();
+    printf("--- 1 лекция ---\n");
+    Lesson1();
+    printf("--- 2 лекция ---\n");
+    Lesson2();
+    printf("--- 3 лекция ---\n");
+    Lesson3();
+    printf("--- 4 лекция ---\n");
+    Lesson4();
+    printf("--- 5 лекция ---\n");
+    Lesson5();
+    printf("--- 6 лекция ---\n");
+    Lesson6();
+    printf("--- 7 лекция ---\n");
+    Lesson7();
     printf("--- 8 лекция ---\n");
     Lesson8();
     

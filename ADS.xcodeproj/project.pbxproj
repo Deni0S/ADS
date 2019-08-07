@@ -38,8 +38,9 @@
 		0317440B22FB7DAD00D65FA9 /* Lesson7.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Lesson7.h; sourceTree = "<group>"; };
 		0317440D22FB7EF200D65FA9 /* Matrix.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Matrix.txt; sourceTree = "<group>"; };
 		0317440E22FB85C900D65FA9 /* Lesson8.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Lesson8.h; sourceTree = "<group>"; };
-		033E8B3521A8711B00805E4F /* AiSD */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AiSD; sourceTree = BUILT_PRODUCTS_DIR; };
+		033E8B3521A8711B00805E4F /* ADS */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ADS; sourceTree = BUILT_PRODUCTS_DIR; };
 		033E8B3821A8711B00805E4F /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		034003E830752F980031C5FD /* Logo.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = Logo.icns; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +57,7 @@
 		033E8B2C21A8711B00805E4F = {
 			isa = PBXGroup;
 			children = (
-				033E8B3721A8711B00805E4F /* AiSD */,
+				033E8B3721A8711B00805E4F /* ADS */,
 				033E8B3621A8711B00805E4F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -64,14 +65,15 @@
 		033E8B3621A8711B00805E4F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				033E8B3521A8711B00805E4F /* AiSD */,
+				033E8B3521A8711B00805E4F /* ADS */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		033E8B3721A8711B00805E4F /* AiSD */ = {
+		033E8B3721A8711B00805E4F /* ADS */ = {
 			isa = PBXGroup;
 			children = (
+				034003E830752F980031C5FD /* Logo.icns */,
 				033E8B3821A8711B00805E4F /* main.c */,
 				031743EC22FB673D00D65FA9 /* Lesson1.h */,
 				031743F222FB6B3100D65FA9 /* Lesson2.h */,
@@ -85,15 +87,15 @@
 				0317440B22FB7DAD00D65FA9 /* Lesson7.h */,
 				0317440E22FB85C900D65FA9 /* Lesson8.h */,
 			);
-			path = AiSD;
+			path = ADS;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		033E8B3421A8711B00805E4F /* AiSD */ = {
+		033E8B3421A8711B00805E4F /* ADS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 033E8B3C21A8711B00805E4F /* Build configuration list for PBXNativeTarget "AiSD" */;
+			buildConfigurationList = 033E8B3C21A8711B00805E4F /* Build configuration list for PBXNativeTarget "ADS" */;
 			buildPhases = (
 				033E8B3121A8711B00805E4F /* Sources */,
 				033E8B3221A8711B00805E4F /* Frameworks */,
@@ -103,9 +105,9 @@
 			);
 			dependencies = (
 			);
-			name = AiSD;
+			name = ADS;
 			productName = C1l_Barinov;
-			productReference = 033E8B3521A8711B00805E4F /* AiSD */;
+			productReference = 033E8B3521A8711B00805E4F /* ADS */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -122,7 +124,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 033E8B3021A8711B00805E4F /* Build configuration list for PBXProject "AiSD" */;
+			buildConfigurationList = 033E8B3021A8711B00805E4F /* Build configuration list for PBXProject "ADS" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -135,7 +137,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				033E8B3421A8711B00805E4F /* AiSD */,
+				033E8B3421A8711B00805E4F /* ADS */,
 			);
 		};
 /* End PBXProject section */
@@ -288,7 +290,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		033E8B3021A8711B00805E4F /* Build configuration list for PBXProject "AiSD" */ = {
+		033E8B3021A8711B00805E4F /* Build configuration list for PBXProject "ADS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				033E8B3A21A8711B00805E4F /* Debug */,
@@ -297,7 +299,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		033E8B3C21A8711B00805E4F /* Build configuration list for PBXNativeTarget "AiSD" */ = {
+		033E8B3C21A8711B00805E4F /* Build configuration list for PBXNativeTarget "ADS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				033E8B3D21A8711B00805E4F /* Debug */,
